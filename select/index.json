@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "「ひまわりの約束」 Music Video",
+  "base_artist": "秦 基博",
+  "createdAt": "2025-12-05T15:06:32.983319Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ひまわりの約束",
+      "artist": "May J.",
+      "has_synced": false,
+      "path": "select/01_ひまわりの約束_May_J..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ひまわりの約束",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/02_ひまわりの約束_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ひまわりの約束",
+      "artist": "秦 基博",
+      "has_synced": true,
+      "path": "select/03_ひまわりの約束_秦_基博.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ひまわりの約束",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/04_ひまわりの約束_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ひまわりの約束",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/05_ひまわりの約束_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ひまわりの約束",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/06_ひまわりの約束_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ひまわりの約束",
+      "artist": "Ruki",
+      "has_synced": true,
+      "path": "select/07_ひまわりの約束_Ruki.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "ひまわりの約束",
+      "artist": "秦基博",
+      "has_synced": true,
+      "path": "select/08_ひまわりの約束_秦基博.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ひまわりの約束",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/09_ひまわりの約束_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ひまわりの約束 - backing track",
+      "artist": "Motohiro Hata",
+      "has_synced": false,
+      "path": "select/10_ひまわりの約束_-_backing_track_Motohiro_Hata.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ひまわりの約束 (backing track)",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/11_ひまわりの約束_(backing_track)_秦_基博.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ひまわりの約束 feat.春茶",
+      "artist": "Kobasolo feat. Harucha",
+      "has_synced": true,
+      "path": "select/12_ひまわりの約束_feat.春茶_Kobasolo_feat._Harucha.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ひまわりの約束 feat.春茶",
+      "artist": "kobasolo, Harucha",
+      "has_synced": true,
+      "path": "select/13_ひまわりの約束_feat.春茶_kobasolo,_Harucha.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "ひまわりの約束 feat.春茶",
+      "artist": "kobasolo",
+      "has_synced": true,
+      "path": "select/14_ひまわりの約束_feat.春茶_kobasolo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ひまわりの約束 feat. 春茶",
+      "artist": "コバソロ",
+      "has_synced": false,
+      "path": "select/15_ひまわりの約束_feat._春茶_コバソロ.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ひまわりの約束 - Himawari No Yakusoku",
+      "artist": "Motohiro Hata",
+      "has_synced": true,
+      "path": "select/16_ひまわりの約束_-_Himawari_No_Yakusoku_Motohiro_Hata.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ひまわりの約束",
+      "artist": "秦 基博",
+      "has_synced": false,
+      "path": "select/pl_01_ひまわりの約束_秦_基博.txt"
+    }
+  ]
+}
